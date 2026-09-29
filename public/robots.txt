@@ -2,4 +2,4 @@ User-agent: *
 Allow: /
 Disallow: /admin
 
-Sitemap: https://buzzlaunchmedia.com/sitemap.xml
+Sitemap: https://buzzlaunch-media.vercel.app//sitemap.xml
